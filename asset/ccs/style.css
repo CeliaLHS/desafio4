@@ -1,0 +1,20 @@
+.navbar-brand {
+    padding-left: 60px;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.container-fluid {
+    margin: 10px;
+    padding: 30px;
+}
+
+.carousel {
+    width: 348px;
+    height: 224px;
+    margin: auto;
+} 
